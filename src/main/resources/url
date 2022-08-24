@@ -1,0 +1,18 @@
+http://localhost:9001/COMPONENT-PROCESSING-SERVICE/component-processing
+
+http://localhost:9001/COMPONENT-PROCESSING-SERVICE/payment-processing
+
+http://localhost:9001/AUTHORIZATION-SERVICE/authenticate
+
+http://localhost:9001/AUTHORIZATION-SERVICE/validate
+
+
+New urls:-
+
+http://localhost:9001/component-processing
+
+http://localhost:9001/payment-processing
+
+http://localhost:9001/authenticate
+
+http://localhost:9001/validate
